@@ -1,6 +1,6 @@
 #### TEXT-TO-SPEECH WITH TACOTRON2
 
-This repo was learned from PyTorch's Tutorial: [Here]([https://link-url-here.org](https://pytorch.org/audio/stable/tutorials/tacotron2_pipeline_tutorial.html)) 
+This repo was learned from PyTorch's Tutorial: [[Here](https://pytorch.org/audio/stable/tutorials/tacotron2_pipeline_tutorial.html)]
 
 The text-to-speech pipeline:
 

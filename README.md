@@ -1,6 +1,8 @@
 #### TEXT-TO-SPEECH WITH TACOTRON2
 
-The text-to-speech pipeline
+This repo was learned from PyTorch's Tutorial: [Here]([https://link-url-here.org](https://pytorch.org/audio/stable/tutorials/tacotron2_pipeline_tutorial.html)) 
+
+The text-to-speech pipeline:
 
 1. Text preprocessing
 * Text is encoded into a list of symbols
